@@ -1,0 +1,47 @@
+body{
+	background-color: #ccc;
+}
+
+.jumbotron{
+	background-color:#663300;
+	color:white;
+	text-align:center;
+	padding-bottom:10px;
+}
+
+.jumbotron h1{
+margin-top:-5px;
+}
+
+#image{
+	width: 800px;
+	height:250px;
+	margin-top:-130px;
+
+}
+
+.panel-primary > .panel-heading {
+  background-color: #31792F;
+}
+
+h3{
+	padding:5px;
+	font-weight:bold;
+	font-size:17px;
+}
+
+.table{
+	background-color:none !important;
+	color:none;
+}
+
+thead{
+	font-weight:bold;
+}
+
+#submitBtn{
+	background:#31792F;
+	color:white;
+	padding:10px 15px;
+}
+
